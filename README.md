@@ -3,10 +3,9 @@
 Simple form application to add dish.
 
 ## Comands to run app
-
 ### `npm install`
 
-Installs needed dependiences.
+Installs needed dependencies.
 
 ### `npm start`
 
