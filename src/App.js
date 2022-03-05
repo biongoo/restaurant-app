@@ -1,13 +1,13 @@
 import Theme from './theme/Theme';
 
-import NewDish from './components/Dishes/NewDish';
+import AddDish from './components/Dishes/AddDish';
 import FormLayout from './components/Layout/FormLayout';
 
 const App = () => {
   return (
     <Theme>
       <FormLayout>
-        <NewDish />
+        <AddDish />
       </FormLayout>
     </Theme>
   );
