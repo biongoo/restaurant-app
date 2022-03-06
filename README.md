@@ -2,7 +2,7 @@
 
 Simple form application to add dish.
 
-## Comands to run app
+## Commands to run app
 ### `npm install`
 
 Installs needed dependencies.
